@@ -1,0 +1,55 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+* {
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+body {
+  font-family: 'Bebas Neue', sans-serif;
+}
+.container {
+  width: 75%;
+}
+
+h1 {
+  text-align: center;
+  font-size: 75px;
+}
+
+p {
+  font-size: 24px;
+  text-align: center;
+}
+
+div {
+  margin: 10px auto;
+  width: 500px;
+}
+
+input {
+  margin-bottom: 20px;
+  margin-left: 75px;
+  font-size: 24px;
+}
+
+button {
+  font-size: 24px;
+}
+audio {
+  margin-left: 90px;
+  text-align: center;
+}
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
